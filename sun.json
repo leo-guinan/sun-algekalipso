@@ -1,0 +1,382 @@
+{
+  "id": "sun-algekalipso",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@algekalipso Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_19707bb4099e",
+    "display_name": "algekalipso",
+    "user_id": "@algekalipso",
+    "description": "Community Archive-derived proof-of-search sun for @algekalipso.",
+    "document_count": 32016,
+    "word_count": 949265,
+    "active_days": 2168,
+    "emissions": [
+      "Think",
+      "Algekalipso",
+      "Consciousness",
+      "Don",
+      "Experience",
+      "Way"
+    ],
+    "generated_at": "2026-06-27T15:27:29.690588+00:00",
+    "color": "#f59e0b",
+    "mass": 13.763
+  },
+  "planets": [
+    {
+      "id": "planet_e11be66b1948",
+      "name": "Think",
+      "summary": "Archive cluster around think: 25168 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "really",
+        "which",
+        "time",
+        "good"
+      ],
+      "artifacts": [
+        {
+          "id": "art_04135a1d1d73",
+          "title": "Think receipt from 2024-03-24",
+          "excerpt": "Because slaughterbots will be using technology similar to GPT but in machine vision (namely, predict your next move based on the video feed so far) what this guy is doing could save his life.\n\nIt's our version of sandwalking (to avoid alerting worms in Dune). We need to move in… https://t.co/sjOfNl7U0h",
+          "source_document_id": "1771846646143623550",
+          "timestamp": "2024-03-24T10:28:54+00:00",
+          "url": "https://x.com/algekalipso/status/1771846646143623550",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, which, time."
+        },
+        {
+          "id": "art_3e6d61e50184",
+          "title": "Think receipt from 2024-06-17",
+          "excerpt": "[Not OC] https://t.co/vqN0vqZ3eo",
+          "source_document_id": "1802842436370317472",
+          "timestamp": "2024-06-17T23:15:06+00:00",
+          "url": "https://x.com/algekalipso/status/1802842436370317472",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, which, time."
+        },
+        {
+          "id": "art_683ac548ef66",
+          "title": "Think receipt from 2022-11-03",
+          "excerpt": "I forget who made this (sorry!) but I love how both accurate and non-linear it is. https://t.co/0B3h38gKeE",
+          "source_document_id": "1587983789816283136",
+          "timestamp": "2022-11-03T01:43:33+00:00",
+          "url": "https://x.com/algekalipso/status/1587983789816283136",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, which, time."
+        },
+        {
+          "id": "art_dfd7b94d124b",
+          "title": "Think receipt from 2022-12-01",
+          "excerpt": "Remember: in higher dimensions you rarely get stuck in local maxima - usually it's a saddle point masquerading as a cul-de-sac.\n\nThis is why experiencing higher (phenomenal) dimensions on meditation/DMT can be so liberating. You notice you were never stuck. The knot isn't a knot. https://t.co/wO3tPhv8mE",
+          "source_document_id": "1598410749264920576",
+          "timestamp": "2022-12-01T20:16:34+00:00",
+          "url": "https://x.com/algekalipso/status/1598410749264920576",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, which, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5ce8805b5643",
+      "proof_score": 1,
+      "mass": 40.249,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_aab317eacbfa",
+      "name": "Algekalipso",
+      "summary": "Archive cluster around algekalipso: 2584 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "algekalipso",
+        "webmasterdave",
+        "nickcammarata",
+        "consciousness",
+        "qualia"
+      ],
+      "artifacts": [
+        {
+          "id": "art_28540236ae65",
+          "title": "Algekalipso receipt from 2024-02-07",
+          "excerpt": "The pheomenology of reading @algekalipso's posts 😃\n\nTy https://t.co/PFBP1cUKvh",
+          "source_document_id": "1755150193568493857",
+          "timestamp": "2024-02-07T08:43:09+00:00",
+          "url": "https://x.com/algekalipso/status/1755150193568493857",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: algekalipso, webmasterdave, nickcammarata, consciousness."
+        },
+        {
+          "id": "art_5442633fdf34",
+          "title": "Algekalipso receipt from 2024-02-23",
+          "excerpt": "5 minutes into your regularly scheduled \"exotic attentional modes and chill\" and she gives you this stare like a deer caught in the headlights that reads \"Am I in a sleep paralysis or in an @algekalipso twit?\" And the answer is both. Wake up!!!!",
+          "source_document_id": "1760983870546309371",
+          "timestamp": "2024-02-23T11:04:06+00:00",
+          "url": "https://x.com/algekalipso/status/1760983870546309371",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: algekalipso, webmasterdave, nickcammarata, consciousness."
+        },
+        {
+          "id": "art_41b23d624b90",
+          "title": "Algekalipso receipt from 2024-05-31",
+          "excerpt": "@LkasP7 Here you go!\n\nListen to Aligning DMT Entities by algekalipso on #SoundCloud\nhttps://t.co/2Uz0wynfj3",
+          "source_document_id": "1796346585322074129",
+          "timestamp": "2024-05-31T01:02:55+00:00",
+          "url": "https://x.com/algekalipso/status/1796346585322074129",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: algekalipso, webmasterdave, nickcammarata, consciousness."
+        },
+        {
+          "id": "art_cbf376ae32af",
+          "title": "Algekalipso receipt from 2019-01-27",
+          "excerpt": "Verifying myself: I am algekalipso on https://t.co/uQ9nOTc83X. ENuiVUM7VavDn7aYCMgsAnEzZCMSfYgnLA1m / https://t.co/6HxwQm8AbC",
+          "source_document_id": "1089641579017424896",
+          "timestamp": "2019-01-27T21:49:31+00:00",
+          "url": "https://x.com/algekalipso/status/1089641579017424896",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: algekalipso, webmasterdave, nickcammarata, consciousness."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_712a8027e8a0",
+      "proof_score": 1,
+      "mass": 32.311,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_cb6fdafe7ec8",
+      "name": "Consciousness",
+      "summary": "Archive cluster around consciousness: 1395 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "consciousness",
+        "qualia",
+        "states",
+        "experience",
+        "problem"
+      ],
+      "artifacts": [
+        {
+          "id": "art_214a58fbd371",
+          "title": "Consciousness receipt from 2022-05-19",
+          "excerpt": "They don't know consciousness is an electromagnetic phenomenon. https://t.co/L6IR9n4fqG",
+          "source_document_id": "1527128526843002882",
+          "timestamp": "2022-05-19T03:26:28+00:00",
+          "url": "https://x.com/algekalipso/status/1527128526843002882",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: consciousness, qualia, states, experience."
+        },
+        {
+          "id": "art_9e50b7792331",
+          "title": "Consciousness receipt from 2023-10-15",
+          "excerpt": "The hippies, it turns out, are honestly right about a bunch of things. Trauma is stored patterns of tension? DMT is a high frequency state of consciousness? You can synchronize your aura with others on LSD? Yeah all true.\n\nIt's just that they are terrible at explaining things,…",
+          "source_document_id": "1713456698625806840",
+          "timestamp": "2023-10-15T07:28:06+00:00",
+          "url": "https://x.com/algekalipso/status/1713456698625806840",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: consciousness, qualia, states, experience."
+        },
+        {
+          "id": "art_bbf634e42a29",
+          "title": "Consciousness receipt from 2023-12-18",
+          "excerpt": "Are you interested in consciousness, AI, meditation, psychedelics, suffering reduction, and broadly the study of qualia? If so, congrats! You're in the right place (Qualia Twitter)!\n\nHere's a suggestion: if you're comfortable drop where you live (country / state) in the comments…",
+          "source_document_id": "1736703131780788250",
+          "timestamp": "2023-12-18T11:01:07+00:00",
+          "url": "https://x.com/algekalipso/status/1736703131780788250",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: consciousness, qualia, states, experience."
+        },
+        {
+          "id": "art_8c85bd8d02dc",
+          "title": "Consciousness receipt from 2023-08-13",
+          "excerpt": "I hate so say it so bluntly, but yeah, psychedelics are actually really important for the scientific study of consciousness.",
+          "source_document_id": "1690561448383250432",
+          "timestamp": "2023-08-13T03:10:33+00:00",
+          "url": "https://x.com/algekalipso/status/1690561448383250432",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: consciousness, qualia, states, experience."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2d595bfded05",
+      "proof_score": 1,
+      "mass": 33.756,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_a8a0367521bc",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1191 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "way",
+        "need",
+        "see"
+      ],
+      "artifacts": [
+        {
+          "id": "art_46cc0b619982",
+          "title": "Don receipt from 2024-03-23",
+          "excerpt": "Don't get lost in all the side quests. Work on the main quest for once in your life.",
+          "source_document_id": "1771376427654602912",
+          "timestamp": "2024-03-23T03:20:25+00:00",
+          "url": "https://x.com/algekalipso/status/1771376427654602912",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, way, need."
+        },
+        {
+          "id": "art_cc91b6591593",
+          "title": "Don receipt from 2024-01-23",
+          "excerpt": "From a long conversation I had with someone who has legally administered psychedelics to 600+ people and who is one of the most self-aware persons I have ever met:\n\nPsychedelics don't treat narcissism.\n\nThis seems very important to know about. Don't put your hope there.",
+          "source_document_id": "1749642004693131659",
+          "timestamp": "2024-01-23T03:55:35+00:00",
+          "url": "https://x.com/algekalipso/status/1749642004693131659",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, way, need."
+        },
+        {
+          "id": "art_233078fad997",
+          "title": "Don receipt from 2024-07-02",
+          "excerpt": "I still don't understand how reality works. Do you?",
+          "source_document_id": "1808217461961228566",
+          "timestamp": "2024-07-02T19:13:32+00:00",
+          "url": "https://x.com/algekalipso/status/1808217461961228566",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, way, need."
+        },
+        {
+          "id": "art_e4ca2a073a54",
+          "title": "Don receipt from 2021-12-29",
+          "excerpt": "He who controls your political theory controls your sense of agency.\n\nA corollary: you are only ever as agentic as your political theory says is the upper bound of rational agency.\n\nDon't hand over your agency just like that. It's a mistake. It's really yours to keep. Own it.",
+          "source_document_id": "1476031702275276804",
+          "timestamp": "2021-12-29T03:25:55+00:00",
+          "url": "https://x.com/algekalipso/status/1476031702275276804",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, way, need."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c80ff90d8c67",
+      "proof_score": 1,
+      "mass": 32.87,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_8d00ee9afd65",
+      "name": "Experience",
+      "summary": "Archive cluster around experience: 880 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "experience",
+        "self",
+        "time",
+        "dmt",
+        "other"
+      ],
+      "artifacts": [
+        {
+          "id": "art_22d3f11c87c4",
+          "title": "Experience receipt from 2024-08-20",
+          "excerpt": "The phenomenal binding problem, in a nutshell: how do all these tiny animals come together to create a moment of experience with rich instantaneous structure? Why aren't we *just* lots of tiny animals? Wouldn't that be the natural result of putting together a bunch of tiny… https://t.co/PwqwDDrS6E",
+          "source_document_id": "1826008308073042259",
+          "timestamp": "2024-08-20T21:28:00+00:00",
+          "url": "https://x.com/algekalipso/status/1826008308073042259",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: experience, self, time, dmt."
+        },
+        {
+          "id": "art_02b0eac14de3",
+          "title": "Experience receipt from 2023-04-30",
+          "excerpt": "Having a DMT breakthrough experience for the first time is profound.\n\nBut you know what?\n\nAfter having ~ 200 DMT breakthrough experiences, having a DMT breakthrough experience is still profound.",
+          "source_document_id": "1652524242712526849",
+          "timestamp": "2023-04-30T04:04:16+00:00",
+          "url": "https://x.com/algekalipso/status/1652524242712526849",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: experience, self, time, dmt."
+        },
+        {
+          "id": "art_dff3c72eb8aa",
+          "title": "Experience receipt from 2023-05-01",
+          "excerpt": "This is an incredible, 10/10, trip report about ibogaine by the legendary Teafeary. Really good read, if you're in the mood for reading about a life-changing experience that challenges preconceptions about the mind and reality in a very real way.\n\nhttps://t.co/8KDuQmxJu8",
+          "source_document_id": "1652941987342090242",
+          "timestamp": "2023-05-01T07:44:14+00:00",
+          "url": "https://x.com/algekalipso/status/1652941987342090242",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: experience, self, time, dmt."
+        },
+        {
+          "id": "art_0c8e172194d7",
+          "title": "Experience receipt from 2023-03-20",
+          "excerpt": "\"Human values\" is a folk concept.\n\nA large fraction of society realizes pigs in factory farms experience intense suffering in their lives and wants to help them.\n\nAnother large fraction is annoyed that anyone would care about pig's wellbeing.\n\nWhich is the \"human value\" here?",
+          "source_document_id": "1637913575196065792",
+          "timestamp": "2023-03-20T20:26:41+00:00",
+          "url": "https://x.com/algekalipso/status/1637913575196065792",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: experience, self, time, dmt."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ae448bcdfbe3",
+      "proof_score": 1,
+      "mass": 32.644,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_e16922da8a5d",
+      "name": "Way",
+      "summary": "Archive cluster around way: 798 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "other",
+        "which",
+        "really",
+        "only"
+      ],
+      "artifacts": [
+        {
+          "id": "art_bf1cb83453ef",
+          "title": "Way receipt from 2023-09-18",
+          "excerpt": "\"I noticed the process leading to perfect symmetry, in a 'if you blink you miss it' kind of way, where I had to let go at the final moment and do nothing in order to witness pure being in perfect silence, in the dark, like a thief in the night\" \n\n- Right after 5-MeO-DMT\n\n\"Yeah,… https://t.co/ws0pKP39Cb",
+          "source_document_id": "1703905443486351512",
+          "timestamp": "2023-09-18T22:54:49+00:00",
+          "url": "https://x.com/algekalipso/status/1703905443486351512",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, other, which, really."
+        },
+        {
+          "id": "art_8ebb2780c082",
+          "title": "Way receipt from 2024-07-04",
+          "excerpt": "You can just invent your own meditation practice and see what happens. If you write about it, we will all learn something new.\n\nI feel that a lot of people sense they need permission to do this. Like there is a single right way to meditate. Well, that's not true.\n\nSo, if it's…",
+          "source_document_id": "1808659088580190403",
+          "timestamp": "2024-07-04T00:28:24+00:00",
+          "url": "https://x.com/algekalipso/status/1808659088580190403",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, other, which, really."
+        },
+        {
+          "id": "art_22c9d25d7f0c",
+          "title": "Way receipt from 2024-04-17",
+          "excerpt": "The two classes of drugs I've seen ruin people's lives in the most ruthless, enduring, and unrelenting way are \"GABAergics\" (whether or not they end up being all about GABA or not) and \"antipsychotics\".\n\nPsychedelics, stimulants, and dissociatives can really wreak you. But it's…",
+          "source_document_id": "1780736052292190525",
+          "timestamp": "2024-04-17T23:12:13+00:00",
+          "url": "https://x.com/algekalipso/status/1780736052292190525",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, other, which, really."
+        },
+        {
+          "id": "art_77a6957375c5",
+          "title": "Way receipt from 2024-07-05",
+          "excerpt": "Do you have an explanation for why on DMT breakthrough one often experiences these hyperbolic surfaces that are so large that the only way to fit them in your visual field is by projecting them kind of like this?\n\nNote: a DMT breakthrough would typically contain _multiple_ of… https://t.co/1Tmn5LgAph",
+          "source_document_id": "1809290971320107234",
+          "timestamp": "2024-07-05T18:19:17+00:00",
+          "url": "https://x.com/algekalipso/status/1809290971320107234",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, other, which, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5cf569eecb18",
+      "proof_score": 1,
+      "mass": 32.019,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
